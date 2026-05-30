@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configserify",
+        "uuid": 1211392,
+        "checksum": "llmv8"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
